@@ -1,4 +1,4 @@
-# driver-drowsiness-detection
+# Driver-Drowsiness-Detection
 Driver drowsiness detection is a system designed to prevent accidents by monitoring a driver's condition and detecting signs of fatigue or sleepiness. This system is particularly useful in transportation, where long driving hours can lead to driver fatigue and accidents. 
 
 ## Algorithms Used:
